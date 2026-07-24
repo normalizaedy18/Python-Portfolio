@@ -90,7 +90,7 @@ This project answers several business questions:
 
 ## 1️⃣ Total Sales by Region
 
-![Sales by Region](Sales%20by%20Region.png)
+![Sales by Region](sales_by_region.png)
 
 ### Insight
 
