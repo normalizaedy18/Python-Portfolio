@@ -90,7 +90,7 @@ This project answers several business questions:
 
 ## 1️⃣ Total Sales by Region
 
-![Sales by Region](sales_by_region.png)
+![Sales by Region](Project-01-Excel-Automation/sales_by_region.png)
 
 ### Insight
 
@@ -102,7 +102,7 @@ This project answers several business questions:
 
 ## 2️⃣ Profit by Category
 
-![Profit by Category](profit_by_category.png)
+![Profit by Category](Project-01-Excel-Automation/profit_by_category.png)
 
 ### Insight
 
@@ -112,7 +112,7 @@ Technology products generated the highest overall profit, indicating stronger pr
 
 ## 3️⃣ Relationship Between Discount and Profit
 
-![Discount vs Profit](discount_vs_profit.png)
+![Discount vs Profit](Project-01-Excel-Automation/discount_vs_profit.png)
 
 ### Insight
 
@@ -124,7 +124,7 @@ Several transactions with discounts above 50% even produced negative profits.
 
 ## 4️⃣ Top Sales Sub Category
 
-![Top Sub Category](top_sub_category.png)
+![Top Sub Category](Project-01-Excel-Automation/top_sub_category.png)
 
 ### Insight
 
