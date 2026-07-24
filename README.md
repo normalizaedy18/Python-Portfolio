@@ -149,7 +149,7 @@ This project produces:
 Clone this repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Python-Portfolio.git
+git clone https://github.com/normalizaedy18/Python-Portfolio.git
 ```
 
 Install required libraries
